@@ -5,8 +5,7 @@ I’ve gained fundamental knowledge in **AI concepts**, **machine learning**, an
 
 ---
 
-![Oracle AI Foundations ![Oracle AI Badge](paste-your-link-here)
-
+![Oracle AI Badge](https://raw.githubusercontent.com/faiq-tech/oracle-ai-foundation-course/main/oracle-badge.png)
 <!-- If you later get a verified badge link, you can paste this below:
 [🔗 View Verified Badge](https://your-verification-link.com)
 -->
