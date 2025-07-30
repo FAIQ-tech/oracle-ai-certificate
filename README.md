@@ -1,30 +1,14 @@
-# 🎓 Oracle AI Foundations Certificate
+# 🧠 Oracle AI Foundations – Badge Showcase
 
-This repository contains my future certificate from the **Oracle AI Foundations** course, which I am currently completing as part of my journey in Artificial Intelligence and Machine Learning.
-
----
-
-## 🧠 What I'm Learning
-
-- Fundamentals of **Artificial Intelligence (AI)** and **Machine Learning (ML)**
-- Difference between **supervised**, **unsupervised**, and **reinforcement learning**
-- Real-world applications of AI across industries
-- Introduction to **Large Language Models (LLMs)** and how they compare to traditional ML models
-- Overview of **Oracle Cloud Infrastructure (OCI) AI Services**, including:
-  - OCI Vision (Image recognition & object detection)
-  - OCI Language (Text sentiment analysis & classification)
-  - OCI Speech (Speech-to-text capabilities)
+This repository showcases my achievement in completing the **Oracle Cloud Infrastructure AI Foundations** course.  
+I’ve gained fundamental knowledge in **AI concepts**, **machine learning**, and **OCI AI Services** like Vision, Language, and Speech.
 
 ---
 
-## 🗂️ Certificate
+## 🏅 Oracle AI Foundations Badge
 
-> 📌 **Certificate coming soon – currently preparing for the final exam. Stay tuned!**
+![Oracle AI Badge](Screenshot_2025-07-3.png)
 
----
-
-## 🔗 About the Course
-
-- Offered by: **Oracle University**
-- Mode: Self-paced, online
-- Certificate: Free upon successful completion
+<!-- If you later get a verified badge link, you can paste this below:
+[🔗 View Verified Badge](https://your-verification-link.com)
+-->
